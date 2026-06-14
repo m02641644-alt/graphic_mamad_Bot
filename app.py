@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 # فعال کردن لاگ برای مشاهده خطاها
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
-TOKEN = os.getenv("8957960658:AAG4h_pxUKbE_Ghx8Ohll6wNJqSf1X9fsSQ")
+TOKEN = os.getenv("8957960658:AAGsGCfESQHBC9gqEBdJaN7avM9iIrnc85M")
 
 # تابع ساخت منوی اصلی
 def get_main_keyboard():
